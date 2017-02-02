@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\bin\Debug\CUET E-MEDICAL CENTER.exe.config
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET E-MEDICAL CENTER.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET_E_MEDICAL_CENTER.STUDENT_IDEN.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET_E_MEDICAL_CENTER.TRANS_TABLE.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET_E_MEDICAL_CENTER.Properties.Resources.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET_E_MEDICAL_CENTER.PURCHASE.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET_E_MEDICAL_CENTER.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\obj\Debug\CUET E-MEDICAL CENTER.csproj.GenerateResource.Cache
+H:\dcmnt\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\bin\Debug\CUET E-MEDICAL CENTER.exe.config
+D:\dcmnt\Visual Studio 2012\Projects\CUET E-MEDICAL CENTER\CUET E-MEDICAL CENTER\bin\Debug\CUET E-MEDICAL CENTER.exe.config
